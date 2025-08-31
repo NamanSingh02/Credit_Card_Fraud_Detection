@@ -22,4 +22,4 @@ The number of iterations run are 500
 
 Accuracy on the test set is 99.94%
 
-Size of the training set is 227845 and size of the testing set is 56962
+Size of the training set is 227,845 and size of the testing set is 56,962
